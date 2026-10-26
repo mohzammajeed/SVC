@@ -1,0 +1,2 @@
+rootProject.name = 'SoftVCompressor'
+include ':app'
